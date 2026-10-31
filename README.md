@@ -1,7 +1,9 @@
 ## Hi there 👋, I'm Omorinsola Makinde!
 
 
-🔍 **Exploring the world of AI**, with a keen interest in **Computer Vision** and **ML*. I’m on a mission to use AI for real-world impact. 
+I'm a Software Engineer focused on Python backend development and computer vision. I build backend services, APIs, and applications that integrate machine learning models.
+
+
 
 🌱 Currently learning and building my skills
 
@@ -13,7 +15,7 @@ Let’s connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/omorinsola-makinde) 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
